@@ -1,0 +1,4 @@
+C:\Users\HYPE AMD\Documents\C#\Myapp\obj\Debug\net8.0\Myapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HYPE AMD\Documents\C#\Myapp\obj\Debug\net8.0\Myapp.AssemblyInfoInputs.cache
+C:\Users\HYPE AMD\Documents\C#\Myapp\obj\Debug\net8.0\Myapp.AssemblyInfo.cs
+C:\Users\HYPE AMD\Documents\C#\Myapp\obj\Debug\net8.0\Myapp.csproj.CoreCompileInputs.cache
