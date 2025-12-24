@@ -2,3 +2,14 @@ C:\Users\HYPE AMD\Documents\C#\Myapp\obj\Debug\net8.0\Myapp.GeneratedMSBuildEdit
 C:\Users\HYPE AMD\Documents\C#\Myapp\obj\Debug\net8.0\Myapp.AssemblyInfoInputs.cache
 C:\Users\HYPE AMD\Documents\C#\Myapp\obj\Debug\net8.0\Myapp.AssemblyInfo.cs
 C:\Users\HYPE AMD\Documents\C#\Myapp\obj\Debug\net8.0\Myapp.csproj.CoreCompileInputs.cache
+C:\Users\HYPE AMD\Documents\C#\Myapp\bin\Debug\net8.0\Myapp.exe
+C:\Users\HYPE AMD\Documents\C#\Myapp\bin\Debug\net8.0\Myapp.deps.json
+C:\Users\HYPE AMD\Documents\C#\Myapp\bin\Debug\net8.0\Myapp.runtimeconfig.json
+C:\Users\HYPE AMD\Documents\C#\Myapp\bin\Debug\net8.0\Myapp.dll
+C:\Users\HYPE AMD\Documents\C#\Myapp\bin\Debug\net8.0\Myapp.pdb
+C:\Users\HYPE AMD\Documents\C#\Myapp\obj\Debug\net8.0\Myapp.sourcelink.json
+C:\Users\HYPE AMD\Documents\C#\Myapp\obj\Debug\net8.0\Myapp.dll
+C:\Users\HYPE AMD\Documents\C#\Myapp\obj\Debug\net8.0\refint\Myapp.dll
+C:\Users\HYPE AMD\Documents\C#\Myapp\obj\Debug\net8.0\Myapp.pdb
+C:\Users\HYPE AMD\Documents\C#\Myapp\obj\Debug\net8.0\Myapp.genruntimeconfig.cache
+C:\Users\HYPE AMD\Documents\C#\Myapp\obj\Debug\net8.0\ref\Myapp.dll

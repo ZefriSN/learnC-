@@ -59,19 +59,22 @@ if (permission.Contains("Admin"))
 }
 else if (permission.Contains("Manager"))
 {
-    if (Level >= 20)
-        {
-            Console.WriteLine("Contact admin");
-        }
-        else
+    if (level >= 20)
     {
-        Console.WriteLine("Kamu tidk punya akses");
+     Console.WriteLine("Contact admin for access");
     }
-    else 
+    else
+    {
+        Console.WriteLine("Kamu tidak punya akses");
+    }
     {
         Console.WriteLine("HOHO");
-    }
-
+}
+}
+else
+{
+    Console.WriteLine("You dont have access");
+}
 
 
 
