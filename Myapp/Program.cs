@@ -44,7 +44,7 @@
 // Console.WriteLine((flip == 0) ? "Heads" : "Tails");
 
 //Decision Logic
-string permission = "Admin|Manager";
+/* string permission = "Admin|Manager";
 int level = 55;
 if (permission.Contains("Admin"))
 {
@@ -74,7 +74,7 @@ else if (permission.Contains("Manager"))
 else
 {
     Console.WriteLine("You dont have access");
-}
+} */
 
 
 
@@ -86,3 +86,46 @@ else
 
 // Console.WriteLine("Do you want continue this program ? (y/n)");
 // string input = Console.ReadLine();
+
+//===========================================================================//
+// CODE BLOCK================================================================
+
+// bool flag= true;
+// int value = 5;
+// if (true)
+// {
+//     value = 6;
+//     Console.WriteLine($"Inside the code block: {value}");
+// }
+// Console.WriteLine($"Outside the code block: {value}");
+
+//clean code ifelse
+// string name = "Jefri";
+// bool flag = true;
+
+// if (name == "Jefri") 
+//     Console.WriteLine("Found Jefri");
+// else if (name == "Septi") 
+//     Console.WriteLine("found Septi");
+// else
+//      Console.WriteLine("Not found");
+        
+int[] numbers = { 4 , 8, 15, 16, 23, 89 };
+int total = 0;
+bool found = true;
+
+foreach (int number in numbers)
+{
+
+    total += number;
+
+if (number == 42)
+    found = true;
+        
+}
+ if (found)   
+Console.WriteLine("Set Contains 42");
+
+   
+Console.WriteLine($"Total : {total}");
+
